@@ -44,7 +44,7 @@ const discordTexts = {
       // Variaveis 6; Quando clicar no botão sair
       modal: {
         title: process.env._6_1_VERIFICACAO_USUARIO_JA_EXISTE_TEXTOP || "VERIFICAÇÃO", 
-        leaveInputLabel: process.env._6_2_VERIFICACAO_USUARIO_JA_EXISTE_TEXTO_POPUP || "Digite o código de transação da Hotmart 👇",
+        leaveInputLabel: process.env._6_2_VERIFICACAO_USUARIO_JA_EXISTE_TEXTO_POPUP || "Digite o código de transação da Vindi 👇",
       },
 
       notFoundValue: {
@@ -81,7 +81,7 @@ const discordTexts = {
     // Variaveis 2;
     modal: {
       title: process.env._2_1_VERIFICACAO_INICIAL_TITULO_POPUP || "VERIFICAÇÃO",
-      emailInputLabel: process.env._2_2_VERIFICACAO_INICIAL_TEXTO_POPUP || "Digite seu e-mail de compra da hotmart 👇",
+      emailInputLabel: process.env._2_2_VERIFICACAO_INICIAL_TEXTO_POPUP || "Digite seu e-mail de compra da Vindi 👇",
     },
   },
 
